@@ -6,25 +6,25 @@ import UserCard from "./UserCard";
 const Home = () => {
   const users = [
     {
-      name: "Maria Latifa",
-      title: "Desenvolvedora Senior",
-      description: "Desenvolvedor web com experiência em React e Node.js",
+      name: "Ana Bruck",
+      title: "Eu recomendo a letícia, pois o atendimento dela fez toda a diferença",
+      description: "\"A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de uma proffisonal qualificada poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos\"",
       photo:
-        "https://super.abril.com.br/wp-content/uploads/2021/07/SI_429_Oraculo_cachorrinho_FB.png"
+        "https://img.freepik.com/fotos-gratis/retrato-de-mulher-feliz-rindo_23-2148850676.jpg?w=2000"
     },
     {
-      name: "Scott Jr",
-      title: "Estagiário",
-      description: "Desenvolvedor web com experiência em React e Node.js",
+      name: "Ana Bruck",
+      title: "Eu recomendo a letícia, pois o atendimento dela fez toda a diferença",
+      description: "\"A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de uma proffisonal qualificada poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos\"",
       photo:
-        "https://conteudo.imguol.com.br/c/tab/0a/2021/01/14/a-pinscher-celebridade-bica-1610653437088_v2_3x4.jpg"
+        "https://img.freepik.com/fotos-gratis/retrato-de-mulher-feliz-rindo_23-2148850676.jpg?w=2000"
     },
     {
-      name: "Ágata Ling",
-      title: "CEO",
-      description: "Desenvolvedor web com experiência em React e Node.js",
+      name: "Ana Bruck",
+      title: "Eu recomendo a letícia, pois o atendimento dela fez toda a diferença",
+      description: "\"A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de uma proffisonal qualificada poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos\"",
       photo:
-        "https://i0.wp.com/petcaramelo.com/wp-content/uploads/2018/07/PINSCHER-BRAVO.jpg?resize=251%2C181&ssl=1"
+        "https://img.freepik.com/fotos-gratis/retrato-de-mulher-feliz-rindo_23-2148850676.jpg?w=2000"
     }
   ];
 
